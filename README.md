@@ -1,5 +1,6 @@
 # AndroidShellconfusePython
 一个简单的安卓Shell文本混淆Python
+obfuscator_v7p.py
 ## 使用方式
 1. 混淆时可能原脚本会被覆盖请自行备份！！！
 2. 使用Termux并安装Python环境
