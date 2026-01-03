@@ -1,11 +1,12 @@
 # AndroidShellconfusePython
 一个简单的安卓Shell文本混淆Python
 ## 使用方式
-1. 使用Termux并安装Python环境
-2. 在Windows并安装Python环境
-3. 在Linux并安装Python环境
-3. 在/使用...并安装.....
-4. 不会装请bing😅😅😅
+1. 混淆时可能原脚本会被覆盖请自行备份！！！
+2. 使用Termux并安装Python环境
+3. 在Windows并安装Python环境
+4. 在Linux并安装Python环境
+5. 在/使用...并安装.....
+6. 不会装请bing😅😅😅
 
 ## 许可证
 本项目采用 [MIT许可证](LICENSE)
