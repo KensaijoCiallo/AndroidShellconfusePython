@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Android Shell文本混淆工具 obfuscator_v7p.py
-Copyright (c) 2026 KensaijoCiallo
+Android Shell文本混淆工具 obfuscator_v7.1p.py
+Copyright (c) 2026 kanseijo
 License: MIT
-GitHub仓库: https://github.com/KensaijoCiallo/AndroidShellconfusePython
+GitHub仓库: https://github.com/kanseijo/AndroidShellconfusePython
 """
 import sys
 import os
@@ -16,10 +16,10 @@ def fail(msg): print(f"\033[31m[×]\033[0m {msg}")
 
 def show_banner():
     print("\033[36m" + "="*60 + "\033[0m")
-    print("\033[36mAndroid Shell文本混淆工具 obfuscator_v7p.py\033[0m")
-    print("\033[36mCopyright (c) 2026 KensaijoCiallo\033[0m")
+    print("\033[36mAndroid Shell文本混淆工具 obfuscator_v7.1p.py\033[0m")
+    print("\033[36mCopyright (c) 2026 kanseijo\033[0m")
     print("\033[36mLicense: MIT\033[0m")
-    print("\033[36mGitHub仓库: https://github.com/KensaijoCiallo/AndroidShellconfusePython\033[0m")
+    print("\033[36mGitHub仓库: https://github.com/kanseijo/AndroidShellconfusePython\033[0m")
     print("\033[36m" + "="*60 + "\033[0m")
     print()
 
@@ -122,5 +122,5 @@ print("\033[36m" + "="*60 + "\033[0m")
 print("\033[36m🎉 混淆成功！\033[0m")
 print("\033[36m📂 输出文件: \033[0m" + out_path)
 print("\033[36m📁 原文件: \033[0m" + src + " (未修改)")
-print("\033[36m🔗 项目地址: \033[0mhttps://github.com/KensaijoCiallo/AndroidShellconfusePython")
+print("\033[36m🔗 项目地址: \033[0mhttps://github.com/kanseijo/AndroidShellconfusePython")
 print("\033[36m" + "="*60 + "\033[0m")
