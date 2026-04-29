@@ -28,8 +28,8 @@ def gen_varname():
 
 if len(sys.argv) != 2:
     show_banner()
-    print("用法: python obfuscator_v7p.py 原脚本.sh")
-    print("示例: python obfuscator_v7p.py test.sh")
+    print("用法: python obfuscator_v7.1p.py 原脚本.sh")
+    print("示例: python obfuscator_v7.1p.py test.sh")
     print("输出: test.obf.sh")
     print()
     print("注意：请确保原文件以.sh结尾，否则可能导致输出文件覆盖原文件！")
